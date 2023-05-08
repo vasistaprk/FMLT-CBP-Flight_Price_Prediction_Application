@@ -2,13 +2,19 @@ body {
     background-color: #b37ed4;
     text-align: center;
 }
+h3{
+    text-align: center;
+    font-weight: bold;
+    text-decoration-color: #000000;
+}
 
 .navbar {
     background-color: #074c8d;
 }
 
 a {
-    color: #a837ff;
+    font-weight: bold;
+    color: #000000;
 }
 
 a:hover {
